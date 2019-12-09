@@ -1,0 +1,13 @@
+import appConfig from "../config/app-config";
+const BASE_URL = appConfig.apiUri;
+export const ORDERS = `${BASE_URL}/orders`;
+export const PINCODE = `${BASE_URL}/pincode`;
+export const ESTIMATE = `${BASE_URL}/estimate`;
+export const PLACE_ORDER = `${BASE_URL}/placeorder`;
+export const LEAST_ORDER = `${BASE_URL}/leastcost`;
+export const UPDATE_PRICE = `${BASE_URL}/updateprice`;
+export const UPDATE_ORDER_STATUS = `${BASE_URL}/updateOrderStatus`;
+export const DIVISIONS = `${BASE_URL}/divisions`;
+export const ADD_USER = `${BASE_URL}/adduser`;
+export const ADD_VENDOR = `${BASE_URL}/addvendor`;
+export const CHAT_BOT = `${BASE_URL}/lex`;

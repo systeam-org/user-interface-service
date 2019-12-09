@@ -1,0 +1,15 @@
+{
+  "region": "us-east-1",
+  "userPool": "us-east-1_QE9BwTG2B",
+  "userPoolForVendor":"us-east-1_fKKyGdlQT",
+  "userPoolBaseUri": "https://userlogin.systeambiz.com",
+  "userPoolBaseUriForVendor":"https://vendorlogin.systeambiz.com",
+  "clientId": "7kiqcljqhh5vniqsi5ek46ftqd",
+  "clientIdForVendor":"v16rrsi8che38c143e2gab2df",
+  "callbackUri": "https://www.systeambiz.com",
+  "callBackUriForVendor": "https://www.systeambiz.com?type=vendor",
+  "signoutUri": "https://www.systeambiz.com",
+  "tokenScopes": ["openid", "email", "profile", "https://www.systeambiz.com"],
+  "googleAPIKey": "AIzaSyB0KHdpL7Sv1nd61WVNaoABEzWbte3mswA",
+  "apiUri": "https://api.systeambiz.com"
+}

@@ -1,0 +1,16 @@
+.k-widget k-chat{
+    width:350px !important;
+}
+.modal-body{
+    padding:0px  !important
+}
+.chat-container{
+    width: auto;
+    display: inline-block;
+    position: absolute;
+    bottom: 10%
+}
+.chatbot-btn{
+    border-radius: 50%;
+    padding: 20px;
+}
