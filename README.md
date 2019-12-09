@@ -17,6 +17,30 @@ The repository for User Interface for SysteamBiz shipment solution.
   - **Customer Portal:** On this portal, customer can provide shipping details such as date, total weight, dimensions, source and destination pin codes. And using these details, system will provide best possible price. After that customer can confirm the order. Customer can also see the list of orders which they have placed.  
 
   - **Vendor Portal:** On this portal, vendors can provide shipping rates for a given source, destination and weight. Vendor can also see the list of orders.
+
+- Architecture Diagram:
+  ![Architecture Diagram](Architecture-Diagram.png)
+
+- Sample Demo Screenshots
+  - Get Estimate
+  ![Get Estimate](images/get_estimate.png)
+  ![Get Estimate with Map](images/get_estimate_map.png)
+
+  - Place Order
+  ![Place Order](images/place_order.png)
+  
+  - Order List
+  ![Order List](images/order_list.png)
+  
+  - Least shipment price
+  ![Least shipment price](images/least_prices.png)
+  
+  - Update Price
+  ![Update Price](images/update_price.png)
+  
+  - Chatbot
+  ![Chatbot](images/chatbot.png)
+  
   
 - Pre-requisites Set-up
   - AWS S3
