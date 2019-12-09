@@ -10,7 +10,7 @@ The repository for User Interface for SysteamBiz shipment solution.
   - Dhwani Shanghvi (https://www.linkedin.com/in/dhwani-sanghvi)
   - Jignesh Madhani (https://www.linkedin.com/in/jdmadhani)
   
-- Project Introduction
+### Project Introduction
 
   **In this project, we are going to provide two portals i.e. Customer portal and Vendor portal.**
 
@@ -18,10 +18,10 @@ The repository for User Interface for SysteamBiz shipment solution.
 
   - **Vendor Portal:** On this portal, vendors can provide shipping rates for a given source, destination and weight. Vendor can also see the list of orders.
 
-- Architecture Diagram:
+### Architecture Diagram:
   ![Architecture Diagram](Architecture-Diagram.png)
 
-- Sample Demo Screenshots
+### Sample Demo Screenshots
   - Get Estimate
   ![Get Estimate](images/get_estimate.png)
   ![Get Estimate with Map](images/get_estimate_map.png)
@@ -42,16 +42,16 @@ The repository for User Interface for SysteamBiz shipment solution.
   ![Chatbot](images/chatbot.png)
   
   
-- Pre-requisites Set-up
+### Pre-requisites Set-up
   - AWS S3
   - AWS Cloudfront
   - AWS Route53  
   
-- List of required software to download locally
+### List of required software to download locally
   - Node v10.16.3
   - NPM v6.9.0  
      
-- How to set up and run project locally?
+### How to set up and run project locally?
   - Run following command to install node modules:    
     *npm install*
   - Run following command to launch UI:    
